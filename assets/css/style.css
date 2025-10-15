@@ -58,3 +58,29 @@ body {
 .drop-shadow.left {
     box-shadow: -4px 0 2px -2px rgba(0,0,0,0.4)
 }
+
+.site-main {
+  padding: 40px 0;
+  background-color: #f9f9f9;
+}
+
+.site-main .container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.site-main h2 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.site-main p {
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.features ul {
+  list-style: disc;
+  margin-left: 20px;
+}
